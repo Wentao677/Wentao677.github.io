@@ -2,13 +2,12 @@
 
 ![logo](coverpic.jpg)
 
-# 李文韬的知识分享 <small>3.5</small>
+# 多人运动分析系统 <small>1.0版本</small>
 
-> 一个神奇的文档网站生成器。
+> 这里是项目博客
 
-- 简单、轻便 (压缩后 ~21kB)
-- 无需生成 html 文件
-- 众多主题
+- 内置组内知识库 
+- 记录项目进展
 
-[GitHub](https://github.com/docsifyjs/docsify/)
-[Get Started](#Headline)
+[GitHub](https://github.com/Wentao677/Use-MultiSports)
+[Get Started](README.md)
