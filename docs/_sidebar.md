@@ -6,4 +6,8 @@
     * [工具链](knowledge/toolchain.md)
     * [深度学习](knowledge/deep_learning.md)
     * [卷积](knowledge/convolution.md)
+* 暑研
+    * [工作进展](summer/work.md)
+    * [计划安排](summer/plan.md)
+    * [结题答辩](summer/outcome.md)
 * [指南](guide)
