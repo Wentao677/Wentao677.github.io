@@ -9,6 +9,7 @@
 - 林子超 [PyTorch深度学习实践](https://www.bilibili.com/video/BV1Y7411d7Ys/?spm_id_from=333.337.search-card.all.click&vd_source=e2b96538b3c2da2818bba0c80e8491e2)   看完前四集
 
 >6.24
+
 王 coil源码看懂，了解训练过程 优化函数RELU,池化，各种NET
 
 林 [PyTorch深度学习实践](https://www.bilibili.com/video/BV1Y7411d7Ys/?spm_id_from=333.337.search-card.all.click&vd_source=e2b96538b3c2da2818bba0c80e8491e2)   看完前九集
