@@ -22,3 +22,9 @@
 李 
 [梯度](https://www.bilibili.com/video/BV1sW411775X/?spm_id_from=333.337.search-card.all.click&vd_source=ca432610751bd2ecb826c8e3dd00f791) 最基本的神经网络的数学细节 [反向传播数学原理（链式法则）](https://www.bilibili.com/video/BV16x411V7Qg/?p=2&spm_id_from=333.880.my_history.page.click&vd_source=ca432610751bd2ecb826c8e3dd00f791)
 TenseFlow安装 （类似于pytorch）
+
+> 6.25
+
+[小项目：训练一个图片分类器（VPN）](https://pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html)
+
+学习取得了初步成果，理解[coil20训练代码](https://github.com/BeiCunNan/Image_Classfiation_Coil20)
