@@ -28,3 +28,14 @@ TenseFlow安装 （类似于pytorch）
 [小项目：训练一个图片分类器（VPN）](https://pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html)
 
 学习取得了初步成果，理解[coil20训练代码](https://github.com/BeiCunNan/Image_Classfiation_Coil20)
+>6.26-6.28又读了一些源码，了解dataset和dataloader
+
+## 目前跑通的源码：
+- Coil20
+- MINIST_CNN
+- Diabetes
+
+- 目前通读的源码：
+- Coil20
+- MINIST_CNN里的data.save
+- Diabetes
