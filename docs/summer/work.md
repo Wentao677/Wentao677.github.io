@@ -39,3 +39,10 @@ TenseFlow安装 （类似于pytorch）
 - Coil20
 - MINIST_CNN里的data.save
 - Diabetes
+
+7/2
+项目：使用MMlab里的RESNET50完成水果图片分类
+[项目来源](https://github.com/CrabBoss-lab/openmmlab-Camp/)
+[项目详解](https://zhuanlan.zhihu.com/p/635695648)
+[理论部分](https://www.bilibili.com/medialist/detail/ml2349654133)
+[]()
