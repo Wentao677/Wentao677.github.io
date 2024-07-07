@@ -7,6 +7,7 @@
 > 这里是项目博客
 
 - 组内知识库 
+- 测试
 - 记录项目进展
 
 [GitHub](https://github.com/Wentao677/Use-MultiSports)
