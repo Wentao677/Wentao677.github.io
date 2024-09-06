@@ -15,6 +15,7 @@
 
 * [首页](README)
 * [项目](Routine)
+* [Privacy Policy](Privacy_Policy)
 <!-- * 知识库
     * [工具链](knowledge/toolchain.md)
     * [深度学习](knowledge/deep_learning.md)
