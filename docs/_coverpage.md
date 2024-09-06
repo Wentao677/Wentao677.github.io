@@ -10,5 +10,5 @@
 - 测试
 - 记录项目进展
 
-[GitHub](https://github.com/Wentao677/Use-MultiSports)
+[GitHub](https://github.com/Wentao677/RoutieApp)
 [Get Started](README.md)
