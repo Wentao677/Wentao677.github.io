@@ -14,7 +14,7 @@
 * [指南](guide) -->
 
 * [首页](README)
-* [项目](intro)
+* [项目](Routine)
 <!-- * 知识库
     * [工具链](knowledge/toolchain.md)
     * [深度学习](knowledge/deep_learning.md)
