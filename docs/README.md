@@ -14,19 +14,13 @@ Hi there! This is my personal homepage.
       You can find my contact info, CV, transcript, and my personal projects below.  
       Feel free to reach out to me at <strong>wentaol5@illinois.edu</strong>.
     </p>
-
-    <p>
-      <strong>My Docs:</strong><br>
-      • <a href="downloads/Wentao_Li_Resume.pdf" target="_blank">Download my CV</a><br>
-      • <a href="downloads/transcript.pdf" target="_blank">Download my Transcript</a>
-    </p>
   </div>
 
   <!-- 右栏 (照片) -->
   <div style="flex: 0 0 auto; text-align: center;">
     <img src="assets/meimage.png"
          alt="Wentao Li"
-         style="width: 200px; border-radius: 50%; margin-bottom: 10px;" />
+         style="width: 170px; border-radius: 50%; margin-bottom: 10px;" />
   </div>
 
 </div>
