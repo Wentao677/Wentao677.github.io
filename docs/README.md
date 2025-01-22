@@ -15,7 +15,7 @@
 ---
 
 <div style="text-align: center;">
-<img src="myphoto.jpg" alt="Wentao Li" style="width: 150px; border-radius: 50%; margin-bottom: 10px;" />
+<img src="assets/meimage.png" alt="Wentao Li" style="width: 150px; border-radius: 50%; margin-bottom: 10px;" />
 </div>
 
 **CE Undergrad Student @ UIUC**  
@@ -37,11 +37,11 @@
 
 ### Project 2: [Project Title 2](https://linktoproject2.com)
 
-![Project 2](project2.jpg)
+![Project 2](assets/sql_process.png)
 
 简单的项目描述……
 
----
+<!-- ---
 
 ### Project 3: [Project Title 3](https://linktoproject3.com)
 
@@ -55,4 +55,4 @@
 
 ![Project 4](project4.jpg)
 
-简单的项目描述……
+简单的项目描述…… -->
