@@ -1,49 +1,58 @@
-# Docsify Simple Documentation Template
-> Disclaimer: Under development and not ready for automatic usage.
+# Wentao Li
 
-This repo intent to serve a template to create an awesome looking documentation page of markdown files using [docsify.js](https://docsify.js.org/) with few simple steps.
+## Introduction
 
-## Features
-- Dark Mode Theme switch
-- Local development with docker-compose
-- Automatic sidebar creation
-- Copy button for code boxes
-- Pagination Plugin
-- Search bar Plugin
+我是 **Wentao Li**，目前就读于 **UIUC** (University of Illinois at Urbana-Champaign) 的 Computer Engineering 大三学生。  
+这是我使用 Docsify 搭建的个人网页，你可以在这里找到我的联系邮箱、简历、成绩单，以及我参与或负责过的项目。
 
-## Basic first usage
-1. Move all markdown documentation files into a folder `./docs`
-1. Copy the `index.html` into `./docs`
-1. Add an empty `.nojekyll`-File into `./docs`
-1. Create a manual `_sidebar.md` into `./docs` with your wished structure
+**我的邮箱**:  
+[wentaol5@illinois.edu](mailto:wentaol5@illinois.edu)
 
-> To use docker-compose for local development also add `Dockerfile` and  `docker-compose.yml` to your `./docs` directory.
+**我的文档**:  
+- [下载我的 CV](downloads/Wentao_Li_Resume.pdf)  
+- [下载我的成绩单](downloads/transcript.pdf)
 
-### Local Development
-#### Using npm
-1. Install docsify-cli: `npm i docsify-cli -g`
-1. Run local dev server with: `docsify serve ./docs`
+---
 
-#### Using docker-compose
-1. Start docker-compose in detached mode: `docker-compose up -d`
-2. View your page at `http://localhost:3000`
-3. Stop docker-compose: `docker-compose stop`
+<div style="text-align: center;">
+<img src="myphoto.jpg" alt="Wentao Li" style="width: 150px; border-radius: 50%; margin-bottom: 10px;" />
+</div>
 
-> Page reload is necessary to view the updates.
+**CE Undergrad Student @ UIUC**  
+[wentaol5@illinois.edu](mailto:wentaol5@illinois.edu)
 
-## Deep Dive
-### Structure your docs
-- It's a good practice to organize your docs into folder for the specific topic.
+---
 
-### Change Name of the Page
-Change the name in `index.html` at `window.$docsify = {`
+# My Projects
 
-### Use other Plugins or features of docsify
-Take a look at the documentation of awesome docsify resources: https://docsify.js.org/#/awesome
+下面是我做过的四个项目示例展示（左图右文）：
 
-### Automatic Sidebar Creation
-- Install [hfour/docsify-tools](https://github.com/hfour/docsify-tools) to automatically create a sidebar with CLI
-- Add numbers in front of your filenames and folder e.g. `10-readme.md` to let `docsify-tools` create the sidebar in your wished order
+### Project 1: [Project Title 1](https://linktoproject1.com)
 
-### Deploy to GitHub Pages or GitLab Pages
-Take a look at the documentation of docsify: https://docsify.js.org/#/deploy.
+![Project 1](assets/Volleyball_process.png)
+
+简单的项目描述……
+
+---
+
+### Project 2: [Project Title 2](https://linktoproject2.com)
+
+![Project 2](project2.jpg)
+
+简单的项目描述……
+
+---
+
+### Project 3: [Project Title 3](https://linktoproject3.com)
+
+![Project 3](project3.jpg)
+
+简单的项目描述……
+
+---
+
+### Project 4: [Project Title 4](https://linktoproject4.com)
+
+![Project 4](project4.jpg)
+
+简单的项目描述……
