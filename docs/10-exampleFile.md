@@ -9,8 +9,8 @@
 [wentaol5@illinois.edu](mailto:wentaol5@illinois.edu)
 
 **我的文档**:  
-- [下载我的 CV](downloads/Wentao_Li_Resume.pdf)  
-- [下载我的成绩单](downloads/transcript.pdf)
+- [下载我的 CV](https://wentao677.github.io/downloads/Wentao_Li_Resume.pdf)  
+- [下载我的成绩单](https://wentao677.github.io/downloads/transcript.pdf)
 
 ---
 
