@@ -41,7 +41,7 @@
 
 简单的项目描述……
 
----
+<!-- ---
 
 ### Project 3: [Project Title 3](https://linktoproject3.com)
 
@@ -55,4 +55,4 @@
 
 ![Project 4](project4.jpg)
 
-简单的项目描述……
+简单的项目描述…… -->
