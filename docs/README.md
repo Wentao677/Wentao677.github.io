@@ -67,7 +67,7 @@ Hi there! This is my personal homepage.
   </div>
   <div style="flex: 2; min-width: 300px; margin-left: 1em;">
     <h3>RoutiBlock</h3>
-    <p>I developed a time management app. It has been released to Apple App Store.</p>
+    <p>I developed a time management app. It has been released to Apple App Store (U.S.).</p>
   </div>
 </div>
 
