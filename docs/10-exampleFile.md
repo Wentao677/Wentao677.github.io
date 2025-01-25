@@ -43,6 +43,7 @@ A brief description about Project 2...
 
 ### Project 2
 ![Project 2](assets/App.gif)
+A brief description about Project 2...
 
 ### Project 3
 

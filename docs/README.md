@@ -27,29 +27,49 @@ Hi there! This is my personal homepage.
 
 ---
 
-## My Projects
+<!-- Project 1 -->
+<div style="display: flex; align-items: center; margin-bottom: 2em;">
+  <!-- Left side: Image (or video) -->
+  <div style="flex: 1; min-width: 300px;">
+    <img src="assets/Volleyball_process.png" alt="Project 1" width="300" />
+  </div>
 
-Below are some of my projects:
+  <!-- Right side: Text -->
+  <div style="flex: 2; min-width: 300px; margin-left: 1em;">
+    <h3>Project 1</h3>
+    <p>A brief description about Project 1...
+    Visit the project 
+      <a href="https://wentao677.github.io" target="_blank">website</a> or download the related PDF 
+      <a href="https://wentao677.github.io/downloads/SAM-paper.pdf" target="_blank">here</a> and
+      <a href="https://wentao677.github.io/downloads/Volleyball_Analyzing_System_poster.pdf" target="_blank">here</a>
+      .</p>
+  </div>
+</div>
 
-### Project 1
-![Project 1](assets/Volleyball_process.png)
+<!-- Project 2 -->
+<div style="display: flex; align-items: center; margin-bottom: 2em;">
+  <div style="flex: 1; min-width: 300px;">
+    <img src="assets/sql_process.png" alt="Project 2" width="300" />
+  </div>
+  <div style="flex: 2; min-width: 300px; margin-left: 1em;">
+    <h3>Project 2</h3>
+    <p>A brief description about Project 2...</p>
+  </div>
+</div>
 
-A brief description about Project 1...
-
-### Project 2
-![Project 2](assets/sql_process.png)
-
-A brief description about Project 2...
-
-### Project 3
-
-<!-- 在这里插入视频 -->
-<video width="400" controls>
-  <source src="docs/assets/App.MP4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-这里是对第三个项目的简短描述……
+<!-- Project 3 (with video) -->
+<div style="display: flex; align-items: center; margin-bottom: 2em;">
+  <div style="flex: 1; min-width: 300px;">
+    <video width="170" autoplay muted loop controls>
+      <source src="assets/App.MP4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+  </div>
+  <div style="flex: 2; min-width: 300px; margin-left: 1em;">
+    <h3>Project 3</h3>
+    <p>这里是对第三个项目的简短描述……</p>
+  </div>
+</div>
 
 ---
 <!-- 
