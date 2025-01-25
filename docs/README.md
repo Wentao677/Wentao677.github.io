@@ -41,18 +41,17 @@ A brief description about Project 1...
 
 A brief description about Project 2...
 
-<!-- ---
+### Project 3
 
-### Project 3: [Project Title 3](https://linktoproject3.com)
+<!-- 在这里插入视频 -->
+<video width="400" controls>
+  <source src="docs/assets/App.MP4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
-![Project 3](project3.jpg)
-
-简单的项目描述……
+这里是对第三个项目的简短描述……
 
 ---
+<!-- 
+### Project 4: [Project Title 4](https://linktoproject4.com) -->
 
-### Project 4: [Project Title 4](https://linktoproject4.com)
-
-![Project 4](project4.jpg)
-
-简单的项目描述…… -->
