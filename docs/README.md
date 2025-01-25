@@ -36,8 +36,8 @@ Hi there! This is my personal homepage.
 
   <!-- Right side: Text -->
   <div style="flex: 2; min-width: 300px; margin-left: 1em;">
-    <h3>Project 1</h3>
-    <p>A brief description about Project 1...
+    <h3>Sports Videos Analysis Research</h3>
+    <p>Undergraduate Researcher supervised by Prof. Gaoang Wang from ZJU. We preprocessed different datasets according to the experimental requirements to realize the interoperability of dataset formats. We Designed a new sports videos analysis system base on computer vision technique to recognize the action. We use MMaction2 framework to train models in an unsupervised way.
     Visit the project 
       <a href="https://wentao677.github.io" target="_blank">website</a> or download the related PDF 
       <a href="https://wentao677.github.io/downloads/SAM-paper.pdf" target="_blank">here</a> and
@@ -52,8 +52,8 @@ Hi there! This is my personal homepage.
     <img src="assets/sql_process.png" alt="Project 2" width="300" />
   </div>
   <div style="flex: 2; min-width: 300px; margin-left: 1em;">
-    <h3>Project 2</h3>
-    <p>A brief description about Project 2...</p>
+    <h3>Natural Language to SQL Research</h3>
+    <p>Undergraduate Researcher supervised by Prof. Gang Chen from ZJU. Designed a new pipeline with fine-tuning, prompting, SQL-generating and revision. The new pipeline reaches an accuracy of 66% on the benchmark. Used VLLM to deploy the LLM and applied the LangChain framework to train models.</p>
   </div>
 </div>
 
@@ -66,8 +66,8 @@ Hi there! This is my personal homepage.
     </video>
   </div>
   <div style="flex: 2; min-width: 300px; margin-left: 1em;">
-    <h3>Project 3</h3>
-    <p>这里是对第三个项目的简短描述……</p>
+    <h3>RoutiBlock</h3>
+    <p>I developed a time management app. It has been released to Apple App Store.</p>
   </div>
 </div>
 
