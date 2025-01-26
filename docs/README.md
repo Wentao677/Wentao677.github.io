@@ -34,7 +34,7 @@
   <!-- Right side: Text -->
   <div style="flex: 2; min-width: 300px; margin-left: 1em;">
     <h3>Sports Videos Analysis Research</h3>
-    <p>Undergraduate Researcher supervised by Prof. Gaoang Wang from ZJU. We preprocessed different datasets according to the experimental requirements to realize the interoperability of dataset formats. We Designed a new sports videos analysis system base on computer vision technique to recognize the action. We use MMaction2 framework to train models in an unsupervised way.  <a href="https://wentao677.github.io/downloads/Volleyball_paper.pdf" target="_blank">[Thesis #1]</a>   <a href="https://wentao677.github.io/downloads/SAM-paper.pdf" target="_blank">[Thesis #2]</a>   <a href="https://wentao677.github.io/downloads/Volleyball_paper.pdf" target="_blank">[Poster]</a> 
+    <p>Undergraduate Researcher supervised by Prof. Gaoang Wang from ZJU. We preprocessed different datasets according to the experimental requirements to realize the interoperability of dataset formats. We Designed a new sports videos analysis system base on computer vision technique to recognize the action. We use MMaction2 framework to train models in an unsupervised way.  <a href="https://wentao677.github.io/downloads/Volleyball_paper.pdf" target="_blank">[Thesis #1]</a>   <a href="https://wentao677.github.io/downloads/SAM-paper.pdf" target="_blank">[Thesis #2]</a>   <a href="https://wentao677.github.io/downloads/Volleyball_Analyzing_System_poster.pdf" target="_blank">[Poster]</a> 
     </p>
   </div>
 </div>
