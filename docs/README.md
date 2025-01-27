@@ -4,7 +4,7 @@
 
   <!-- 左栏 -->
   <div style="flex: 1 1 auto; margin-right: 20px;">
-    <p>I am a junior Computer Engineering student at <a href="https://zjui.intl.zju.edu.cn/en/" target="_blank">ZJUI</a>. 
+    <p>I am a junior Computer Engineering student at <a href="https://zjui.intl.zju.edu.cn/en/" target="_blank">ZJUI</a>. Right now I am at UIUC to finish my junior year.
     </p>
     <p>I'm interested in LLM applications, such as Agents and RAG, as well as natural language processing. I am also interested in software and game development.</p>
     <p>
