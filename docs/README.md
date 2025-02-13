@@ -81,7 +81,7 @@
   </div>
   <div style="flex: 2; min-width: 300px; margin-left: 1em;">
     <h3>RoutiBlock</h3>
-    <p>I developed a time management app. It has been released to ios App Store (U.S.).<a href="#/Privacy_Policy" target="_blank">[Privacy_Policy]</a></p>
+    <p>I developed a time management app. It has been released to ios App Store (U.S.). It is free, and you are welcome to download it! <a href="#/Privacy_Policy" target="_blank">[Privacy_Policy]</a></p>
   </div>
 </div>
 
