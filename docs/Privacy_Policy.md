@@ -1,6 +1,6 @@
 ## Privacy Policy
 
-Last updated: [Date]
+Last updated: Feb 12,2025
 
 [RoutiBlock] is a timer tool that respects your privacy. This Privacy Policy explains our practices regarding the collection, use, and disclosure of your information. We are committed to protecting your privacy and ensuring a safe experience while using our app.
 
